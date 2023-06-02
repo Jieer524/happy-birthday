@@ -239,19 +239,19 @@ body {
   }
 }
 
-@media screen and (max-height: 750px) {
+@media screen and (max-height: 700px) {
   .six .hat {
     left: 47%;
   }
 }
 
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 670px) {
   .six .hat {
     left: 42%;
   }
 }
 
-@media screen and (max-height: 780px) and (max-width: 450px) {
+@media screen and (max-height: 740px) and (max-width: 450px) {
   .six .hat {
     left: 40%;
   }
